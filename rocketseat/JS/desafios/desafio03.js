@@ -12,4 +12,4 @@ temHabilidade(skills);
 
 const resultado = temHabilidade("Javascript")
 
-console.log(resultado)
+console.log(resultado);
