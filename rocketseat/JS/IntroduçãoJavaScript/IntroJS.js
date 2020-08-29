@@ -123,18 +123,3 @@ function exibeAlgo(){
 setTimeout(exibeAlgo,1000);
 //setTimeout propoe um tempo de espera para execução da função uma vez.
 
-//*********************************
-//Interação com DOM
-//*********************************
-
-//Caixa de aviso no navegador
-//html
-<button onclick="mostraAlerta()">
-Me pressione
-</button>
-
-//script
-function mostraAlerta(){
-alert("Este botão foi clicado");
-}
-
