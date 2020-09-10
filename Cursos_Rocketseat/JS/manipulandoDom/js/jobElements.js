@@ -1,8 +1,8 @@
-var linkElement.document.createElement('a');
-linkElement.setAttibute('href', 'https://www.google.com/');
+var linkElement = document.createElement('a');
+linkElement.setAttribute('href', 'https://www.google.com.br');
 
-var textElement.document.creatTextNode('Clique para acessar o Google!');
-textElement.appendChild(linkElement);
+var textElement = document.createTextNode('Acessar site do google');
+linkElement.appendChild(textElement);
 
-var containerElement.document.querySelector('#app');
-containetElement.appendChild(linkElement);
+var containerElement = document.querySelector('#app');
+containerElement.appendChild(linkElement);
