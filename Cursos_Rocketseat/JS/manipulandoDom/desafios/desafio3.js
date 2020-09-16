@@ -1,11 +1,3 @@
-const boxDiv = document.querySelector('div');
-
-boxDiv.style.backgroundColor = 'black';
-boxDiv.style.height = '110px';
-boxDiv.style.width = '200px';
-boxDiv.style.borderRadius = '10px';
-
-
 const nomes = ["Carlos", "Celso", "Eduardo"];
 
 const nameList = document.querySelector('ul');
