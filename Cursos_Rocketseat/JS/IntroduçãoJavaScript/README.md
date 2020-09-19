@@ -2,10 +2,11 @@
 
 <div align="center">
   #Introdução ao JavaScript - <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20">
-</div>
----
-
+  <br>
+  <br>
 Desafios Realizados!
+
+</div>
 
 1º Exercicio 
 
