@@ -8,6 +8,8 @@ Desafios Realizados!
 
 </div>
 
+---
+
 1º Exercicio 
 
 Crie uma função que dado o objeto a seguir:
@@ -31,6 +33,9 @@ nº 1293.
 ```
 
 
+---
+
+
 2º Exercicio 
 
 Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
@@ -41,6 +46,9 @@ function pares(x, y) {
 }
 pares(32, 321);
 ```
+
+---
+
 
 3º Exercicio
 
@@ -54,6 +62,9 @@ function temHabilidade(skills) {
 var skills = ["Javascript", "ReactJS", "React Native"];
 temHabilidade(skills); // true ou false
 ```
+
+---
+
 
 4º Exercicio 
 
@@ -71,6 +82,9 @@ experiencia(anosEstudo);
 // De 7 acima: Jedi Master
 
 ```
+
+---
+
 
 5º Exercicio
 
