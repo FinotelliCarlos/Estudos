@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="130" height="130">
   <br>
   <br>
   ##Introdução ao JavaScript
