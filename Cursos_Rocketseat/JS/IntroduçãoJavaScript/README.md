@@ -7,8 +7,8 @@
   ##Introdução ao JavaScript
   <br>
   <br>
-Desafios Realizados!
-
+  Aqui abaixo estão listados os desafios referentes a Introdução ao JavaScript do curso feito na plataforma Online da Rockeatseat!
+  
 </div>
 
 ---
