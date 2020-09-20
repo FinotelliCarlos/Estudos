@@ -1,7 +1,10 @@
 ---
 
 <div align="center">
-  #Introdução ao JavaScript - <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100">
+  <br>
+  <br>
+  ##Introdução ao JavaScript
   <br>
   <br>
 Desafios Realizados!
