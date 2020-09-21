@@ -1,4 +1,3 @@
-
 const nomes = ["Diego", "Gabriel", "Lucas"];
 const listNames = document.querySelector('ul');
 const campTextElement = document.querySelector('input');
