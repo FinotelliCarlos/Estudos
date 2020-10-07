@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="150" height="150">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="250" height="250">
   <br>
   <br>
   <strong>Aqui abaixo estão listados os desafios de Introdução ao JavaScript do curso feito na plataforma Online da Rockeatseat!</strong>
