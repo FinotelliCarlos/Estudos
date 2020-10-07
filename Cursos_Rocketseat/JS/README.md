@@ -1,14 +1,19 @@
+
 ---
 
 <div align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="130" height="130">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="150" height="150">
   <br>
   <br>
-  ##Introdução ao JavaScript
-  <br>
-  <br>
-  Aqui abaixo estão listados os desafios referentes a Introdução ao JavaScript do curso feito na plataforma Online da Rockeatseat!
+  <strong>Aqui abaixo estão listados os desafios de Introdução ao JavaScript do curso feito na plataforma Online da Rockeatseat!</strong>
   
+</div>
+
+
+---
+
+<div align="center">
+<strong>Modulo 1 - Introdução ao Java Script</strong>
 </div>
 
 ---
@@ -35,7 +40,11 @@ O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros"
 nº 1293.
 ```
 
+Meu Código de solução
 
+```bach
+
+```
 ---
 
 
@@ -50,6 +59,11 @@ function pares(x, y) {
 pares(32, 321);
 ```
 
+Meu Código de solução
+
+```bach
+
+```
 ---
 
 
@@ -66,6 +80,11 @@ var skills = ["Javascript", "ReactJS", "React Native"];
 temHabilidade(skills); // true ou false
 ```
 
+Meu Código de solução
+
+```bach
+
+```
 ---
 
 
@@ -86,6 +105,11 @@ experiencia(anosEstudo);
 
 ```
 
+Meu Código de solução
+
+```bach
+
+```
 ---
 
 
@@ -113,3 +137,52 @@ O Diego possui as habilidades: Javascript, ReactJS, Redux
 O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
 ```
 
+Meu Código de solução
+
+```bach
+
+```
+
+---
+
+<div align="center">
+<strong>Modulo 2 - Manipulando a DOM</strong>
+</div>
+
+---
+
+Meu Código de solução
+
+```bach
+
+```
+
+---
+
+<div align="center">
+<strong>Modulo 3 - Criando App de TODOS</strong>
+</div>
+
+---
+
+Meu Código de solução
+
+```bach
+
+```
+
+---
+
+<div align="center">
+<strong>Modulo 4 - Trabalhando com JS Assincrono</strong>
+</div>
+
+---
+
+Meu Código de solução
+
+```bach
+
+```
+
+---
