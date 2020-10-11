@@ -1,9 +1,16 @@
 const express = require('express');
-//importando o express utilizando require
+//importando o express
+const mongoose = require('mongoose');
+//importando o mongoose
 
+//Iniciando o App
 const app = express();
 //constante app executando a função express
 
+//Iniciando o DB
+mongoose.connect('mongodb://localhost:27017/docker', {useNewUrlParser: true});
+
+//Primeira Rota
 app.get('/', (req, res) => {
     res.send('Hello World');
 });

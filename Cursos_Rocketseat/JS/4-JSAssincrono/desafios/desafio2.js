@@ -16,7 +16,7 @@ function viewRepositorios(){
 
     if (user) return;
 
-    axios.get('https://api.github.com/users/FinotelliCarlos/repos')
+    axios.get('https://api.github.com/users/' + user + '/repos')
     .then(function(response){
         viewRepo(response.data);
     })
