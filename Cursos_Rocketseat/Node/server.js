@@ -7,8 +7,8 @@ const mongoose = require('mongoose');
 const app = express();
 //constante app executando a função express
 
-//Iniciando o DB
-mongoose.connect('mongodb://localhost:27017/docker', {useNewUrlParser: true});
+//Conectando o DB
+mongoose.connect('mongodb://localhost:27017/nodeAPI', {useNewUrlParser: true});
 
 //Primeira Rota
 app.get('/', (req, res) => {
